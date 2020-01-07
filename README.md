@@ -1,2 +1,1 @@
-My adaptations of code from Real Python courses and tutorials.
-
+My adaptations of applications from Real Python courses and tutorials.
